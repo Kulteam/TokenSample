@@ -11,7 +11,7 @@ pragma solidity 0.8.4;
  * USE IT ONLY FOR LEARNING PURPOSES. SHOULD BE MODIFIED FOR PRODUCTION
  */
  
-contract SampleBEP20Token {
+contract MON {
     string public name = "MON Network";
     string public symbol = "MON";
     uint256 public totalSupply = 100000000000000000000000000; // 1 million tokens
